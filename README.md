@@ -1,5 +1,5 @@
 ---
-title= Linked
-description= simple
+title: Linked
+description: simple
 ---
 Simple LinkedList
