@@ -1,1 +1,4 @@
+---
+title= Linked
+---
 Simple LinkedList
