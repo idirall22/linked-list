@@ -2,4 +2,4 @@
 title: Linked
 description: simple
 ---
-Simple LinkedList {{<title>}}
+Simple LinkedList {{< title >}}
